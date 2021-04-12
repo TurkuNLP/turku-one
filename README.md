@@ -1,2 +1,3 @@
-# turku-one
-Turku OntoNotes Entities Corpus (TurkuONE)
+# TurkuONE
+
+Turku OntoNotes Entities Corpus
