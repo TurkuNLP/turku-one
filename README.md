@@ -2,4 +2,4 @@
 
 Turku OntoNotes Entities Corpus
 
-(More info Coming soon)
+Data in CoNLL format in `data/conll`, more info coming soon!
