@@ -2,4 +2,4 @@
 
 Turku OntoNotes Entities Corpus
 
-(Coming soon)
+(More info Coming soon)
